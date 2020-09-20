@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Plataforma-Exp-RA-RV/static/css/main.fb895003.chunk.css",
-    "main.js": "/Plataforma-Exp-RA-RV/static/js/main.465f3f28.chunk.js",
-    "main.js.map": "/Plataforma-Exp-RA-RV/static/js/main.465f3f28.chunk.js.map",
+    "main.js": "/Plataforma-Exp-RA-RV/static/js/main.35b80068.chunk.js",
+    "main.js.map": "/Plataforma-Exp-RA-RV/static/js/main.35b80068.chunk.js.map",
     "runtime-main.js": "/Plataforma-Exp-RA-RV/static/js/runtime-main.22edfa16.js",
     "runtime-main.js.map": "/Plataforma-Exp-RA-RV/static/js/runtime-main.22edfa16.js.map",
     "static/css/2.5ee72dc3.chunk.css": "/Plataforma-Exp-RA-RV/static/css/2.5ee72dc3.chunk.css",
     "static/js/2.532e35cb.chunk.js": "/Plataforma-Exp-RA-RV/static/js/2.532e35cb.chunk.js",
     "static/js/2.532e35cb.chunk.js.map": "/Plataforma-Exp-RA-RV/static/js/2.532e35cb.chunk.js.map",
     "index.html": "/Plataforma-Exp-RA-RV/index.html",
-    "precache-manifest.283c4f5bcb3098298cf81fe6991aefb7.js": "/Plataforma-Exp-RA-RV/precache-manifest.283c4f5bcb3098298cf81fe6991aefb7.js",
+    "precache-manifest.6424f947b58c81f5c2cf634e2191a510.js": "/Plataforma-Exp-RA-RV/precache-manifest.6424f947b58c81f5c2cf634e2191a510.js",
     "service-worker.js": "/Plataforma-Exp-RA-RV/service-worker.js",
     "static/css/2.5ee72dc3.chunk.css.map": "/Plataforma-Exp-RA-RV/static/css/2.5ee72dc3.chunk.css.map",
     "static/css/main.fb895003.chunk.css.map": "/Plataforma-Exp-RA-RV/static/css/main.fb895003.chunk.css.map",
@@ -129,6 +129,6 @@
     "static/css/2.5ee72dc3.chunk.css",
     "static/js/2.532e35cb.chunk.js",
     "static/css/main.fb895003.chunk.css",
-    "static/js/main.465f3f28.chunk.js"
+    "static/js/main.35b80068.chunk.js"
   ]
 }
